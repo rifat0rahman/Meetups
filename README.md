@@ -8,4 +8,6 @@
 * add to favourite
 * remove from favourite
 
+App demo: https://meet-ups-together.netlify.app/
+
 You can find the tutorial on `Academind`,it has a react js tutorial that's awesome to get started with react.
